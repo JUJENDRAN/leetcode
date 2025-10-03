@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JUJENDRAN/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
 |  |
@@ -21,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JUJENDRAN/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Matrix
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
