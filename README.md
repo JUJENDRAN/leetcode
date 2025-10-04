@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JUJENDRAN/leetcode/tree/master/0011-container-with-most-water) |
 | [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JUJENDRAN/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Math
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JUJENDRAN/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/JUJENDRAN/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
