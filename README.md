@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/JUJENDRAN/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/JUJENDRAN/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUJENDRAN/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/JUJENDRAN/leetcode/tree/master/0794-swim-in-rising-water) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUJENDRAN/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
 | ------- |
@@ -110,4 +112,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUJENDRAN/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUJENDRAN/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUJENDRAN/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 <!---LeetCode Topics End-->
