@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/JUJENDRAN/leetcode/tree/master/0794-swim-in-rising-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUJENDRAN/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/JUJENDRAN/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/JUJENDRAN/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JUJENDRAN/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/JUJENDRAN/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/JUJENDRAN/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JUJENDRAN/leetcode/tree/master/0011-container-with-most-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/JUJENDRAN/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/JUJENDRAN/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/JUJENDRAN/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/JUJENDRAN/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JUJENDRAN/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Sorting
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JUJENDRAN/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/JUJENDRAN/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/JUJENDRAN/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JUJENDRAN/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JUJENDRAN/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
